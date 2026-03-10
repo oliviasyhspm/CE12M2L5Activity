@@ -1,7 +1,7 @@
 terraform {
   # Backend block to store tfstate in the specified directory
   backend "local" {
-    path = "CE12M2L5Activity/terraform.tfstate"
+    path = "terraform.tfstate"
   }
 }
 
